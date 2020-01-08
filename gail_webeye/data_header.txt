@@ -1,0 +1,446 @@
+campaign>id.
+ad_set>id.
+insight>date_start.
+campaign>id+1.
+ad_set>id+1.
+insight>date_start+1.
+ad_set>bid_strategy>COST_CAP.
+ad_set>bid_strategy>LOWEST_COST_WITHOUT_CAP.
+ad_set>bid_strategy>LOWEST_COST_WITH_BID_CAP.
+ad_set>bid_strategy>NONE.
+ad_set>bid_strategy>TARGET_COST.
+ad_set>effective_status>ACTIVE.
+ad_set>effective_status>PAUSED.
+ad_set>targeting_compaction>genders>女性.
+ad_set>targeting_compaction>genders>所有.
+ad_set>targeting_compaction>genders>男性.
+ad_set>targeting_compaction>targeting_optimization>expansion_all.
+ad_set>targeting_compaction>targeting_optimization>none.
+campaign>bid_strategy>COST_CAP.
+campaign>bid_strategy>LOWEST_COST_WITHOUT_CAP.
+campaign>bid_strategy>LOWEST_COST_WITH_BID_CAP.
+campaign>bid_strategy>NONE.
+campaign>bid_strategy>TARGET_COST.
+campaign>effective_status>ACTIVE.
+campaign>effective_status>PAUSED.
+ad_set>targeting_compaction>countries>台湾.
+ad_set>targeting_compaction>countries>新加坡.
+ad_set>targeting_compaction>countries>新西兰.
+ad_set>targeting_compaction>countries>泰国.
+ad_set>targeting_compaction>countries>澳大利亚.
+ad_set>targeting_compaction>countries>美国.
+ad_set>targeting_compaction>countries>美国本土外小岛屿.
+ad_set>targeting_compaction>countries>香港.
+ad_set>targeting_compaction>countries>马来西亚.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843471762610343/180days open MOMO.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843560505250463/用过以下应用的用户：脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574273650463/time_up-180-0722.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574275440463/用过以下应用的用户：脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843581187200463/time-up-180-0724.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595782600463/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595793520463/101002-宫闱斗争-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595797110463/101001-穿越时空-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595861180463/204001-都市生活-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595865930463/204004-屌丝逆袭-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595869550463/204002-异能-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595882410463/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595883300463/102001-总裁-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843687563940148/阅读时长30min-last 60 days.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843749175380436/People who used your app: 脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843902107040436/time-up-180-0725.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844032721940436/过去30天打开脉脉.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102790580536/time-up-180.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102791900536/用过以下应用的用户：脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844110847200536/time up-180.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844128298670536/用过以下应用的用户：脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136437900536/0726-类似受众.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136439890536/用过以下应用的用户：脉脉小说.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136789030536/用过以下应用的用户：脉脉小说 - 热门小说阅读器.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844141610170536/time-up-180-0728.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844143636750536/102003-婚恋情感.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145677960536/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678230536/101005-世家宅斗-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678610536/101001-穿越时空-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149761620536/204001-都市生活-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149764280536/204004-屌丝逆袭-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149832980536/204002-异能-60.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173233040536/豪门总裁.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173235790536/204001-都市生活.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844205924100536/男频.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844225899400536/打开180.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844542373650536/simple_vip_sub_success last 180days.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843325023080463/384得30分钟.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843471762610343/180days open MOMO.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843544092410463/阅读时长-180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843565058840463/阅读时长-0718.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843574273650463/time_up-180-0722.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843581187200463/time-up-180-0724.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595782600463/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595793520463/101002-宫闱斗争-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595797110463/101001-穿越时空-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595861180463/204001-都市生活-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595865930463/204004-屌丝逆袭-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595869550463/204002-异能-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595882410463/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595883300463/102001-总裁-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843644195160436/1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843687563940148/阅读时长30min-last 60 days.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843772230860536/294.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843843332530536/0327阅读时长.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843862410130436/阅读时长-180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843886323170536/0415阅读.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843888670330536/1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843902107040436/time-up-180-0725.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843973577650436/过去30天打开应用.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844088624890536/timeup-180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844102790580536/time-up-180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110281250436/25%活跃-90.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110847200536/time up-180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136437900536/0726-类似受众.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136783280536/0726-类似受众.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844141610170536/time-up-180-0728.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844143636750536/102003-婚恋情感.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145677960536/102003-婚恋情感-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678230536/101005-世家宅斗-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678610536/101001-穿越时空-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149761620536/204001-都市生活-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149764280536/204004-屌丝逆袭-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149832980536/204002-异能-60.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173233040536/豪门总裁.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173235790536/204001-都市生活.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844205924100536/男频.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844225899400536/打开180.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844542373650536/simple_vip_sub_success last 180days.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843325023080463/384得30分钟.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843565058840463/阅读时长-0718.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843973577650436/过去30天打开应用.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844088624890536/timeup-180.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844110281250436/25%活跃-90.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844136783280536/0726-类似受众.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（30 天）.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（90 天）.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（花费高于平均水平）.
+ad_set>targeting_compaction>flexible_spec>relationship_statuses>已婚.
+campaign>budget_remaining.
+campaign>daily_budget.
+ad_set>bid_amount.
+ad_set>budget_remaining.
+ad_set>daily_budget.
+ad_statistic>ACTIVE.
+insight>actions>omni_app_install.
+insight>unique_actions>omni_app_install.
+insight>clicks.
+insight>unique_clicks.
+insight>impressions.
+insight>reach.
+insight>spend.
+insight>social_spend.
+insight>cost_per_action_type>omni_app_install.
+insight>cost_per_unique_action_type>omni_app_install.
+insight>ctr.
+insight>unique_ctr.
+insight>cpc.
+insight>frequency.
+insight>cpm.
+insight>cpp.
+insight>conversions.
+ad_set>bid_strategy>COST_CAP>diff.
+ad_set>bid_strategy>LOWEST_COST_WITHOUT_CAP>diff.
+ad_set>bid_strategy>LOWEST_COST_WITH_BID_CAP>diff.
+ad_set>bid_strategy>NONE>diff.
+ad_set>bid_strategy>TARGET_COST>diff.
+ad_set>effective_status>ACTIVE>diff.
+ad_set>effective_status>PAUSED>diff.
+ad_set>targeting_compaction>genders>女性>diff.
+ad_set>targeting_compaction>genders>所有>diff.
+ad_set>targeting_compaction>genders>男性>diff.
+ad_set>targeting_compaction>targeting_optimization>expansion_all>diff.
+ad_set>targeting_compaction>targeting_optimization>none>diff.
+campaign>bid_strategy>COST_CAP>diff.
+campaign>bid_strategy>LOWEST_COST_WITHOUT_CAP>diff.
+campaign>bid_strategy>LOWEST_COST_WITH_BID_CAP>diff.
+campaign>bid_strategy>NONE>diff.
+campaign>bid_strategy>TARGET_COST>diff.
+campaign>effective_status>ACTIVE>diff.
+campaign>effective_status>PAUSED>diff.
+ad_set>targeting_compaction>countries>台湾>diff.
+ad_set>targeting_compaction>countries>新加坡>diff.
+ad_set>targeting_compaction>countries>新西兰>diff.
+ad_set>targeting_compaction>countries>泰国>diff.
+ad_set>targeting_compaction>countries>澳大利亚>diff.
+ad_set>targeting_compaction>countries>美国>diff.
+ad_set>targeting_compaction>countries>美国本土外小岛屿>diff.
+ad_set>targeting_compaction>countries>香港>diff.
+ad_set>targeting_compaction>countries>马来西亚>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843471762610343/180days open MOMO>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843560505250463/用过以下应用的用户：脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574273650463/time_up-180-0722>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574275440463/用过以下应用的用户：脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843581187200463/time-up-180-0724>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595782600463/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595793520463/101002-宫闱斗争-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595797110463/101001-穿越时空-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595861180463/204001-都市生活-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595865930463/204004-屌丝逆袭-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595869550463/204002-异能-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595882410463/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595883300463/102001-总裁-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843687563940148/阅读时长30min-last 60 days>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843749175380436/People who used your app: 脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843902107040436/time-up-180-0725>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844032721940436/过去30天打开脉脉>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102790580536/time-up-180>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102791900536/用过以下应用的用户：脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844110847200536/time up-180>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844128298670536/用过以下应用的用户：脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136437900536/0726-类似受众>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136439890536/用过以下应用的用户：脉脉小说>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136789030536/用过以下应用的用户：脉脉小说 - 热门小说阅读器>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844141610170536/time-up-180-0728>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844143636750536/102003-婚恋情感>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145677960536/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678230536/101005-世家宅斗-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678610536/101001-穿越时空-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149761620536/204001-都市生活-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149764280536/204004-屌丝逆袭-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149832980536/204002-异能-60>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173233040536/豪门总裁>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173235790536/204001-都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844205924100536/男频>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844225899400536/打开180>diff.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844542373650536/simple_vip_sub_success last 180days>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843325023080463/384得30分钟>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843471762610343/180days open MOMO>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843544092410463/阅读时长-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843565058840463/阅读时长-0718>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843574273650463/time_up-180-0722>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843581187200463/time-up-180-0724>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595782600463/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595793520463/101002-宫闱斗争-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595797110463/101001-穿越时空-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595861180463/204001-都市生活-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595865930463/204004-屌丝逆袭-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595869550463/204002-异能-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595882410463/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595883300463/102001-总裁-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843644195160436/1>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843687563940148/阅读时长30min-last 60 days>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843772230860536/294>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843843332530536/0327阅读时长>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843862410130436/阅读时长-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843886323170536/0415阅读>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843888670330536/1>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843902107040436/time-up-180-0725>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843973577650436/过去30天打开应用>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844088624890536/timeup-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844102790580536/time-up-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110281250436/25%活跃-90>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110847200536/time up-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136437900536/0726-类似受众>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136783280536/0726-类似受众>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844141610170536/time-up-180-0728>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844143636750536/102003-婚恋情感>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145677960536/102003-婚恋情感-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678230536/101005-世家宅斗-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678610536/101001-穿越时空-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149761620536/204001-都市生活-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149764280536/204004-屌丝逆袭-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149832980536/204002-异能-60>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173233040536/豪门总裁>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173235790536/204001-都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844205924100536/男频>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844225899400536/打开180>diff.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844542373650536/simple_vip_sub_success last 180days>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843325023080463/384得30分钟>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843565058840463/阅读时长-0718>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843973577650436/过去30天打开应用>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844088624890536/timeup-180>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844110281250436/25%活跃-90>diff.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844136783280536/0726-类似受众>diff.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（30 天）>diff.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（90 天）>diff.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（花费高于平均水平）>diff.
+ad_set>targeting_compaction>flexible_spec>relationship_statuses>已婚>diff.
+campaign>budget_remaining>diff.
+campaign>daily_budget>diff.
+ad_set>bid_amount>diff.
+ad_set>budget_remaining>diff.
+ad_set>daily_budget>diff.
+ad_statistic>ACTIVE>diff.
+ad_set>bid_strategy>COST_CAP+1.
+ad_set>bid_strategy>LOWEST_COST_WITHOUT_CAP+1.
+ad_set>bid_strategy>LOWEST_COST_WITH_BID_CAP+1.
+ad_set>bid_strategy>NONE+1.
+ad_set>bid_strategy>TARGET_COST+1.
+ad_set>effective_status>ACTIVE+1.
+ad_set>effective_status>PAUSED+1.
+ad_set>targeting_compaction>genders>女性+1.
+ad_set>targeting_compaction>genders>所有+1.
+ad_set>targeting_compaction>genders>男性+1.
+ad_set>targeting_compaction>targeting_optimization>expansion_all+1.
+ad_set>targeting_compaction>targeting_optimization>none+1.
+campaign>bid_strategy>COST_CAP+1.
+campaign>bid_strategy>LOWEST_COST_WITHOUT_CAP+1.
+campaign>bid_strategy>LOWEST_COST_WITH_BID_CAP+1.
+campaign>bid_strategy>NONE+1.
+campaign>bid_strategy>TARGET_COST+1.
+campaign>effective_status>ACTIVE+1.
+campaign>effective_status>PAUSED+1.
+ad_set>targeting_compaction>countries>台湾+1.
+ad_set>targeting_compaction>countries>新加坡+1.
+ad_set>targeting_compaction>countries>新西兰+1.
+ad_set>targeting_compaction>countries>泰国+1.
+ad_set>targeting_compaction>countries>澳大利亚+1.
+ad_set>targeting_compaction>countries>美国+1.
+ad_set>targeting_compaction>countries>美国本土外小岛屿+1.
+ad_set>targeting_compaction>countries>香港+1.
+ad_set>targeting_compaction>countries>马来西亚+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843471762610343/180days open MOMO+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843560505250463/用过以下应用的用户：脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574273650463/time_up-180-0722+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843574275440463/用过以下应用的用户：脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843581187200463/time-up-180-0724+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595782600463/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595793520463/101002-宫闱斗争-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595797110463/101001-穿越时空-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595861180463/204001-都市生活-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595865930463/204004-屌丝逆袭-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595869550463/204002-异能-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595882410463/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843595883300463/102001-总裁-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843687563940148/阅读时长30min-last 60 days+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843749175380436/People who used your app: 脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843902107040436/time-up-180-0725+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844032721940436/过去30天打开脉脉+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102790580536/time-up-180+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844102791900536/用过以下应用的用户：脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844110847200536/time up-180+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844128298670536/用过以下应用的用户：脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136437900536/0726-类似受众+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136439890536/用过以下应用的用户：脉脉小说+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844136789030536/用过以下应用的用户：脉脉小说 - 热门小说阅读器+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844141610170536/time-up-180-0728+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844143636750536/102003-婚恋情感+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145677960536/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678230536/101005-世家宅斗-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844145678610536/101001-穿越时空-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149761620536/204001-都市生活-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149764280536/204004-屌丝逆袭-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844149832980536/204002-异能-60+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173233040536/豪门总裁+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844173235790536/204001-都市生活+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844205924100536/男频+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844225899400536/打开180+1.
+ad_set>targeting_compaction>custom_audiences>excluded>origin>23844542373650536/simple_vip_sub_success last 180days+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843325023080463/384得30分钟+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843471762610343/180days open MOMO+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843544092410463/阅读时长-180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843565058840463/阅读时长-0718+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843574273650463/time_up-180-0722+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843581187200463/time-up-180-0724+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595782600463/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595793520463/101002-宫闱斗争-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595797110463/101001-穿越时空-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595861180463/204001-都市生活-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595865930463/204004-屌丝逆袭-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595869550463/204002-异能-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595882410463/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843595883300463/102001-总裁-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843644195160436/1+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654386950463/女频现言：婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843654396660463/女频古言：世家宅斗+女强女尊+宫围争斗+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843687563940148/阅读时长30min-last 60 days+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843772230860536/294+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843843332530536/0327阅读时长+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843862410130436/阅读时长-180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843886323170536/0415阅读+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843888670330536/1+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843902107040436/time-up-180-0725+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964920600436/女频现言-婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843964922560436/女频古言-世家宅斗+女强女尊+宫围争斗+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23843973577650436/过去30天打开应用+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844088624890536/timeup-180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844102790580536/time-up-180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110281250436/25%活跃-90+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844110847200536/time up-180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136437900536/0726-类似受众+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844136783280536/0726-类似受众+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844141610170536/time-up-180-0728+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844143636750536/102003-婚恋情感+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145677960536/102003-婚恋情感-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678230536/101005-世家宅斗-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844145678610536/101001-穿越时空-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149761620536/204001-都市生活-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149764280536/204004-屌丝逆袭-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844149832980536/204002-异能-60+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173233040536/豪门总裁+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844173235790536/204001-都市生活+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182091250536/女频古言-世家宅斗+女强女尊+宫围争斗+穿越时空+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844182134630536/女频现言-婚恋情感+豪门总裁+都市生活+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844205924100536/男频+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844225899400536/打开180+1.
+ad_set>targeting_compaction>custom_audiences>included>lookalike>23844542373650536/simple_vip_sub_success last 180days+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843325023080463/384得30分钟+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843565058840463/阅读时长-0718+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23843973577650436/过去30天打开应用+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844088624890536/timeup-180+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844110281250436/25%活跃-90+1.
+ad_set>targeting_compaction>custom_audiences>included>origin>23844136783280536/0726-类似受众+1.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（30 天）+1.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（90 天）+1.
+ad_set>targeting_compaction>flexible_spec>behaviors>Facebook 支付用户（花费高于平均水平）+1.
+ad_set>targeting_compaction>flexible_spec>relationship_statuses>已婚+1.
+campaign>budget_remaining+1.
+campaign>daily_budget+1.
+ad_set>bid_amount+1.
+ad_set>budget_remaining+1.
+ad_set>daily_budget+1.
+ad_statistic>ACTIVE+1.
+insight>actions>omni_app_install+1.
+insight>unique_actions>omni_app_install+1.
+insight>clicks+1.
+insight>unique_clicks+1.
+insight>impressions+1.
+insight>reach+1.
+insight>spend+1.
+insight>social_spend+1.
+insight>cost_per_action_type>omni_app_install+1.
+insight>cost_per_unique_action_type>omni_app_install+1.
+insight>ctr+1.
+insight>unique_ctr+1.
+insight>cpc+1.
+insight>frequency+1.
+insight>cpm+1.
+insight>cpp+1.
+insight>conversions+1
+
